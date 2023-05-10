@@ -1,0 +1,26 @@
+1-How much is it over or under Budget?
+300 over the Budget
+2- by how many days is it ahead/behind the schedule?
+behind the schedule 30 days
+3-by the end of the project, by how much will it be over/under budget?
+600 over budget
+Calculate CV, SV, CPI, EAC
+Earned Value (EV) = % of work completed x BAC
+			56.6*3700 = 2096.42
+Cost Variance (CV) = Earned Value (EV) - Actual Cost (AC)
+		       2096.42-2700 = -603.58
+		 
+Schedule Variance (SV) = Earned Value (EV) - Planned Value (PV)
+				2096.42 - 2342.84 = -246.42
+				
+Cost Performance Index (CPI) = Earned Value (EV) / Actual Cost (AC)
+				2096.42/2700 = 0.77 Over Budget
+
+Schedule Performance Variance (SPI) = Earned Value (EV) / Planned Value (PV)
+					2096.42/2342.84= 0.89
+EAC = BAC / CPI	
+	3700/0.77=4805.19	
+
+
+
+
